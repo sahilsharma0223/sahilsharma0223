@@ -3,9 +3,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Sharma</h1>
 <h3 align="center">I'm a passionate Coder from India.</h3>
 <br/>
-👨‍🎓 B.E in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
+👨‍🎓 B.Tech in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
+👨‍🎓 HSE and SSC completed from Information Science and Engineering from the **[B.S.F Sr. Sec. School](https://www.bsfschooljammu.org/)** 
 
-👨‍🎓 B.Tech in Computer Science from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
 <br/>
 
 
