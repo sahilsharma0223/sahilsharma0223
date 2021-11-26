@@ -58,7 +58,7 @@
 ## My Coding Profiles:
 <p align="left">
 
-<a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/fluent/48/000000/geeksforgeeks.png"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="<img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/>"/></a>
 
 </p>
 
