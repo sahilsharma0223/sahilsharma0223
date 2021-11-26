@@ -78,7 +78,9 @@
 
 </p>
 
-## Connect with me:
+
+## Connect with me:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
+<p align="left">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sahil-sharma-396b49179/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
