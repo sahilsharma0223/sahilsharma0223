@@ -4,6 +4,8 @@
 <h3 align="center">I'm a passionate Coder from India.</h3>
 <br/>
 👨‍🎓 B.E in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
+
+👨‍🎓 B.Tech in Computer Science from the **[ITER, S.O.A.U.](https://www.soa.ac.in/iter)** 
 <br/>
 
 
