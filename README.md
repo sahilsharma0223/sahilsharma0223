@@ -6,7 +6,7 @@
 👨‍🎓 B.E in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
 <br/>
 
-- :smiley: Member of **[Coding Club RVCE](https://github.com/codex-iter)**
+- :smiley: Member of **[Coding Club RVCE](https://www.linkedin.com/company/coding-club-rvce/)**
 
 ## 🙋‍♂️ About Me
 
