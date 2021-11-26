@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[Publication portal For Research Papers]()**
 
-- - :smiley: Member of **[Coding Club RVCE](https://www.linkedin.com/company/coding-club-rvce/)**
+- :smiley: Member of **[Coding Club RVCE](https://www.linkedin.com/company/coding-club-rvce/)**
 
 - 🌱 I’m good at **Data Structures and Algorithms.**
 
@@ -54,6 +54,13 @@
 
 <br/>
 <br/>
+
+## My Coding Profiles:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/sahil-sharma-396b49179/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+
+</p>
 
 ## Connect with me:
 <p align="left">
