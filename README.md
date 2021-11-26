@@ -5,8 +5,7 @@
 <br/>
 
 👨‍🎓 B.Tech in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
-
-👨‍🎓 HSE and SSC completed from Information Science and Engineering from the **[B.S.F Sr. Sec. School](https://www.bsfschooljammu.org/)** 
+👨‍🎓 HSE and SSC completed from the **[B.S.F Sr. Sec. School](https://www.bsfschooljammu.org/)** 
 
 <br/>
 
