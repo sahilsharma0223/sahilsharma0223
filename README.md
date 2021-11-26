@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **sahilsharma4373@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ **I play games and loves listening music 🎶.**
 
 ## 🚀 Languages and Tools:
 
