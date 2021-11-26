@@ -17,8 +17,8 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 My GeeksforGeeks profile **[My Portfolio](https://auth.geeksforgeeks.org/user/ssnvbadyal/profile)**
-- 👨‍💻 My Leetcode profile **[My Portfolio](https://leetcode.com/sahilsharma0223/)**
+- 👨‍💻 My GeeksforGeeks profile **[GeeksforGeeks](https://auth.geeksforgeeks.org/user/ssnvbadyal/profile)**
+- 👨‍💻 My Leetcode profile **[LeetCode](https://leetcode.com/sahilsharma0223/)**
 
 - 📫 How to reach me **sahilsharma4373@gmail.com**
 
