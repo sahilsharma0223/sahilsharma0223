@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Sharma</h1>
 <h3 align="center">I'm a passionate Coder from India.</h3>
 
+👨‍🎓 B.Tech in Computer Science from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
 
 ## 🙋‍♂️ About Me
 
