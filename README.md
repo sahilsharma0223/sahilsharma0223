@@ -58,8 +58,8 @@
 ## My Coding Profiles:
 <p align="left">
 <a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/></a>
+<a href = "https://leetcode.com/sahilsharma0223/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="48px" height="48px" /></a>
 <a href = "https://www.codechef.com/users/sahilsharma022"><img src="https://img.icons8.com/fluency-systems-regular/48/ffffff/codechef.png"/></a>
-<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" width="32px" height="32px" /></a>
 
 
 </p>
