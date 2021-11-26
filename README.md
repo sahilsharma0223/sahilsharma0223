@@ -1,10 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Sharma</h1>
-<h3 align="center">I'm a passionate Coder from India.</h3>
+<h3 align="center">I'm a passionate Coder from Bangalore,India.</h3>
 <br/>
 
-👨‍🎓 B.Tech in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
+👨‍🎓 Pursuing  B.Tech in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
 <br/>
 
 👨‍🎓 HSE and SSC completed from the **[B.S.F Sr. Sec. School](https://www.bsfschooljammu.org/)** 
@@ -34,6 +34,7 @@
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
