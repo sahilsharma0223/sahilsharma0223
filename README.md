@@ -74,7 +74,7 @@
 ## My Coding Profiles:
 <p align="left">
 <a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/></a>
-<a href = "https://leetcode.com/sahilsharma0223/"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pathrise.com%2Fguides%2Fa-review-of-leetcode-as-a-software-engineer-interview-prep-tool%2F&psig=AOvVaw2dpedC8iaPmW74zFHLCqkw&ust=1638054626721000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLCP6pKTt_QCFQAAAAAdAAAAABAJ" width="48px" height="48px" /></a>
+<a href = "https://leetcode.com/sahilsharma0223/"><img src="https://user-images.githubusercontent.com/32040901/79929570-197c2480-8414-11ea-9358-c92a53916a7f.png" width="48px" height="48px" /></a>
 <img src="https://img.icons8.com/plasticine/48/ffffff/codechef.png"/>
 
 </p>
