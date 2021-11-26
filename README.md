@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Sharma</h1>
 <h3 align="center">I'm a passionate Coder from India.</h3>
-- :smiley: Member of **[CODEX](https://www.linkedin.com/company/coding-club-rvce/)**
 <br/>
 👨‍🎓 B.E in Information Science and Engineering from the **[R V College of Engineering](https://www.rvce.edu.in/)** 
+<br/>
+
 - :smiley: Member of **[Coding Club RVCE](https://github.com/codex-iter)**
 
 ## 🙋‍♂️ About Me
