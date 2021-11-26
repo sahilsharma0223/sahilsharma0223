@@ -59,8 +59,7 @@
       <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-  <img src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png"/>
-</div>
+<img src="https://img.icons8.com/color/48/000000/sql.png"/></div>
 
 
 
