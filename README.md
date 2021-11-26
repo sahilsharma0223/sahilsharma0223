@@ -1,20 +1,21 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Sharma</h1>
+<h3 align="center">I'm a passionate Coder from India.</h3>
 
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m good at **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 My GeeksforGeeks profile **[My Portfolio](https://auth.geeksforgeeks.org/user/ssnvbadyal/profile)**
+- 👨‍💻 My Leetcode profile **[My Portfolio](https://leetcode.com/sahilsharma0223/)**
 
-- 📫 How to reach me **subham.raoniar@gmail.com**
+- 📫 How to reach me **sahilsharma4373@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
