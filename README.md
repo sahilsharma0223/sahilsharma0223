@@ -59,7 +59,7 @@
 <p align="left">
 
 <a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/></a>
-<a href = "https://leetcode.com/sahilsharma0223/"><img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png"/></a>
+<a href = "https://leetcode.com/sahilsharma0223/"><img src="https://assets.leetcode.com/users/leetcode/avatar_1568224780.png" style="height: 32px; width: 32px; user-select: auto;/></a>
 <a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/></a>
 
 </p>
