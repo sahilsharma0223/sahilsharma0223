@@ -35,10 +35,7 @@
   
 <div style="display: inline_block"><br>
       
-      <img src="https://img.icons8.com/color/48/ffffff/c-plus-plus-logo.png"/>
-      <img src="https://img.icons8.com/color/48/ffffff/python--v1.png"/>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-      </br>
+     
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Max-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
