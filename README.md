@@ -58,7 +58,7 @@
 ## My Coding Profiles:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sahil-sharma-396b49179/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/fluent/48/000000/geeksforgeeks.png"/></a>
 
 </p>
 
