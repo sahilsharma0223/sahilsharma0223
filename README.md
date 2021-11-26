@@ -30,10 +30,7 @@
 - ⚡ **I play games and loves listening music 🎶.**
 
 
-<p><h2> 🚀 Languages and Tools(familiar with but not limited to):<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
-
-
-      
+<p><h2> Skills & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2><br>
   
 <div style="display: inline_block"><br>
       
