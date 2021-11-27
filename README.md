@@ -76,7 +76,6 @@
 <a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/></a>
 <a href = "https://leetcode.com/sahilsharma0223/"><img src='Images/leetcode.png'/></a>
   <a href = "https://www.codechef.com/users/sahilsharma022"><img src="https://img.icons8.com/plasticine/48/ffffff/codechef.png"/></a>
-<img src="https://img.icons8.com/plasticine/48/ffffff/codechef.png"/>
 </p>
 
 
