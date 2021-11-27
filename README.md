@@ -74,7 +74,7 @@
 ## My Coding Profiles:
 <p align="left">
 <a href = "https://auth.geeksforgeeks.org/user/ssnvbadyal/profile"><img src="https://img.icons8.com/color/50/000000/GeeksforGeeks.png"/></a>
-<a href = "https://leetcode.com/sahilsharma0223/"><img src='Images/leetcode.png'" margin:"20px" width="48px" height="48px"     border-radius: "30px"/></a>
+<a href = "https://leetcode.com/sahilsharma0223/"><img src='Images/leetcode.png'/></a>
 <img src="https://img.icons8.com/plasticine/48/ffffff/codechef.png"/>
 </p>
 
